@@ -1,0 +1,32 @@
+[
+    {
+        "name": "google",
+        "emailDomains": {
+            "google.com": true
+        }
+    },
+    {
+        "name": "facebook",
+        "emailDomains": {
+            "fb.com": true
+        }
+    },
+    {
+        "name": "microsoft",
+        "emailDomains": {
+            "microsoft.com": true
+        }
+    },
+    {
+        "name": "amazon",
+        "emailDomains": {
+            "amazon.com": true
+        }
+    },
+    {
+        "name": "stripe",
+        "emailDomains": {
+            "stripe.com": true
+        }
+    }
+]
