@@ -13,5 +13,17 @@
     },
     "stripe.com": {
         "name": "stripe"
+    },
+    "alibaba-inc.com": {
+        "name": "alibaba"
+    },
+    "baidu.com": {
+        "name": "baidu"
+    },
+    "tencent.com": {
+        "name": "tencent"
+    },
+    "huawei.com": {
+        "name": "huawei"
     }
 }
