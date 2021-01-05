@@ -1,6 +1,6 @@
 ---
-name: 请求曾添公司 | New Company Request
-about: 请求曾添公司 | New Company Request
+name: 请求增添公司 | New Company Request
+about: 请求增添公司 | New Company Request
 title: ''
 labels: company request
 assignees: shrimpy
