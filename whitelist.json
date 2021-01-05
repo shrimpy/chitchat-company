@@ -25,5 +25,8 @@
     },
     "huawei.com": {
         "name": "huawei"
+    },
+    "zte.com.cn": {
+        "name": "zte"
     }
 }
