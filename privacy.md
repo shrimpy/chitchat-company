@@ -36,9 +36,9 @@ ChitChat may delete your information at any time and for any reason, such as tec
 
 You can report inappropriate content from within ChitChat app.
 
-Content will be auto delete if its report count hits 20 reports.
+Content will be auto deleted once its report count reach 20.
 
-User account could be suspended or ejected if the user provided too many offending content.
+An user account could be suspended or ejected if the user provided too many offending content.
 
 Your Consent
 By using our site or apps, you consent to our privacy policy.
