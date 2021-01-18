@@ -34,6 +34,12 @@ You may access or change your information or delete your account from the ChitCh
 
 ChitChat may delete your information at any time and for any reason, such as technical needs, legal concerns, abuse prevention, removal of idle accounts, data loss, or any other reason.
 
+You can report inappropriate content from within ChitChat app.
+
+Content will be auto delete if its report count hits 20 reports.
+
+User account could be suspended or ejected if the user provided too many offending content.
+
 Your Consent
 By using our site or apps, you consent to our privacy policy.
 
