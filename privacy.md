@@ -1,51 +1,62 @@
-### Privacy Policy
-This policy applies to all information collected or submitted on the ChitChat (吹水) website and our apps for iPhone and any other devices and platforms.
+**Privacy Policy**
 
-Information we collect
-ChitChat accounts are created anonymously, with user's company email addresses or personal email addresses with passwords.
+The Lakeside Studio built the ChitChat (吹水) app as a Free app. This SERVICE is provided by The Lakeside Studio at no cost and is intended for use as is.
 
-Email addresses are only used for logging in, password resets, responding to emails that you initiate, and sending notifications that you request. We don’t send promotional emails.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-We store information that you create in ChitChat. We also collect anonymous statistics about which post are most popular to help ordering contents.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Technical basics
-If you create contents in ChitChat, we need to store them until you delete them.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at ChitChat (吹水) unless otherwise defined in this Privacy Policy.
 
-Our server software may also store basic technical information, such as your IP address, in temporary memory or logs.
+**Information Collection and Use**
 
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to email. The information that we request will be retained by us and used as described in this privacy policy.
 
-Ads and analytics
-ChitChat app and website collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
+The app does use third party services that may collect information used to identify you.
 
-Information usage
-We use the information we collect to operate and improve our website, apps, and customer support.
+Link to privacy policy of third party service providers used by the app
 
-We do not share personal information with outside parties except to the extent necessary to accomplish ChitChat’s functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people are using ChitChat.
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 
-We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
+**Log Data**
 
-In the future, we may sell to, buy, merge with, or partner with other businesses. In such transactions, user information may be among the transferred assets.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-Security
-We implement a variety of security measures to help keep your information secure. For instance, all communication with the app and website requires HTTPS with certificate pinning. Passwords are hashed, not stored, using industry-standard methods (currently bcrypt).
+**Cookies**
 
-Accessing, changing, or deleting information
-You may access or change your information or delete your account from the ChitChat app or contact our support.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-ChitChat may delete your information at any time and for any reason, such as technical needs, legal concerns, abuse prevention, removal of idle accounts, data loss, or any other reason.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-You can report inappropriate content from within ChitChat app.
+**Service Providers**
 
-Content will be auto deleted once its report count reach 20.
+We may employ third-party companies and individuals due to the following reasons:
 
-An user account could be suspended or ejected if the user provided too many offending content.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-Your Consent
-By using our site or apps, you consent to our privacy policy.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Contacting Us
-If you have questions regarding this privacy policy, you may create an ticket [here](https://github.com/shrimpy/chitchat-company/issues). 
+**Security**
 
-Changes to this policy
-If we decide to change our privacy policy, we will post those changes on this page. 
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13\. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+**Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2021-01-23
+
+**Contact Us**
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us](https://github.com/shrimpy/chitchat-company/issues/new/choose).
